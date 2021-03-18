@@ -1,0 +1,22 @@
+{
+  "name": "rolluploadconfigfilebug",
+  "version": "1.0.0",
+  "description": "Repo to show reproduction steps for a rollup bug related to loadConfigFile",
+  "main": "runRollup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonsnyder/rollupLoadConfigFileBug.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonsnyder/rollupLoadConfigFileBug/issues"
+  },
+  "homepage": "https://github.com/jonsnyder/rollupLoadConfigFileBug#readme",
+  "devDependencies": {
+    "rollup": "^2.41.5"
+  }
+}
